@@ -1,4 +1,4 @@
-### Hello ! im yuna ! front end developer 🥰
+### Hello ! I'm yuna ! front end developer 🥰
  
 ### 👩🏻‍💻 프로그래밍 & 마크업 언어
 <div>
