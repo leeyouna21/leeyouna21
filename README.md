@@ -9,10 +9,7 @@
 저의 노력과 열정이 가득 묻어있는 코드와 진행 사항들을 함께 보실까요?
 
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4E5D85&random=false&width=435&lines=%EC%82%AC%EC%9A%A9%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8A%94+%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D++%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
 ### 👩🏻‍💻 프로그래밍 & 마크업 언어
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
