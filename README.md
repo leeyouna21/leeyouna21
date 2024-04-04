@@ -3,6 +3,7 @@
 # Portfolio
 <div>
   <a href="https://yuna-portfolio2.web.app/"></a>
+  <a href="#"><img alt="JavaScript" src="https://yuna-portfolio2.web.app/"></a>
 </div>
 
 
