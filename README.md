@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F76161&random=false&width=435&lines=Thank+you+for+visit++my+github+!++%F0%9F%8D%80%F0%9F%92%9A)](https://git.io/typing-svg)
 
 ### Hello ! I'm yuna ! front end developer 🥰
- 
+
+## About yuna
+❤️ 안녕하세요 ! 항상 배우고 성장하기 위해 노력하는 이유나라고 합니다.
+
 ### 👩🏻‍💻 프로그래밍 & 마크업 언어
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
