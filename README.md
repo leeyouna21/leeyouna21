@@ -1,9 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F76161&random=false&width=435&lines=Thank+you+for+visit++my+github+!++%F0%9F%8D%80%F0%9F%92%9A;Hello+!+I'm+yuna+!+front+end+developer+%F0%9F%A5%B0)](https://git.io/typing-svg)
 
-### Hello ! I'm yuna ! front end developer 🥰
+
 
 ## About yuna
-❤️ 안녕하세요 ! 항상 배우고 성장하기 위해 노력하는 이유나라고 합니다.
+
+❤️ Hello! my name is Lee youna, and I'm studying frontend development with the dream of becoming a developer.
+나 자신을 변화시킬 수 있는 건 나 밖에 없다는 마음으로 매번 최선을 다해 모든 프로젝트나 활동에 임하고 있습니다.
+저의 노력과 열정이 가득 묻어있는 코드와 진행 사항들을 함께 보실까요?
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4E5D85&random=false&width=435&lines=%EC%82%AC%EC%9A%A9%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8A%94+%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D++%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ### 👩🏻‍💻 프로그래밍 & 마크업 언어
 <div>
