@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F76161&random=false&width=435&lines=Thank+you+for+visit++my+github+!++%F0%9F%8D%80%F0%9F%92%9A)](https://git.io/typing-svg)
+
 ### Hello ! I'm yuna ! front end developer 🥰
  
 ### 👩🏻‍💻 프로그래밍 & 마크업 언어
