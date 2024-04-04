@@ -2,7 +2,7 @@
 
 # Portfolio
 <div>
-  <a href="https://yuna-portfolio2.web.app/">https://yuna-portfolio2.web.app/</a>
+  <a href="https://yuna-portfolio2.web.app/">저의 포트폴리오입니다./a>
 </div>
 
 
