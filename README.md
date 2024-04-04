@@ -3,7 +3,7 @@
 
 # About yuna
 
-❤️ Hello! my name is Lee youna, and I'm studying frontend development with the dream of becoming a developer.
+❤️ Hello! my name is Lee youna, and I'm studying frontend development with the dream of becoming a developer. <br />
 나 자신을 변화시킬 수 있는 건 나 밖에 없다는 마음으로 매번 최선을 다해 모든 프로젝트나 활동에 임하고 있습니다.
 저의 노력과 열정이 가득 묻어있는 코드와 진행 사항들을 함께 보실까요?
 
