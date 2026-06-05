@@ -1,17 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF6963&random=false&width=435&lines=Thank+you+for+visit+my+github+!+%F0%9F%8D%80)](https://git.io/typing-svg)
 
-# Portfolio
-<div>
-  <a href="http://devkevin.cafe24.com/lyn/port.html">이곳을 클릭하시면, 포트폴리오를 확인하실 수 있습니다. </a>
-</div>
-
 
 
 # About yuna
 
 ❤️ Hello! my name is Lee youna, and I'm studying frontend development with the dream of becoming a developer. <br /><br />
-나 자신을 변화시킬 수 있는 건 나 밖에 없다는 마음으로 매번 최선을 다해 모든 프로젝트나 활동에 임하고 있습니다.<br />
-저의 노력과 열정이 가득 묻어있는 코드와 진행 사항들을 함께 보실까요?
+나 자신을 변화시킬 수 있는 건 나 밖에 없다는 마음으로 매번 최선을 다해 모든 프로젝트나 활동에 임하고 있습니다.
 
 # 사용할 수 있는 기술 스택 👩🏻‍💻
 ###  프로그래밍 & 마크업 언어
